@@ -1,0 +1,568 @@
+{
+  "经济学期刊": {
+    "一般经济": {
+      "A+期刊": [
+        {"名称": "American Economic Review", "ISSN": "1944-7981"},
+        {"名称": "Econometrica", "ISSN": "1468-0262"},
+        {"名称": "Journal of Political Economy", "ISSN": "1537-534X"},
+        {"名称": "Quarterly Journal of Economics", "ISSN": "1531-4650"},
+        {"名称": "Review of Economic Studies", "ISSN": "1467-937X"}
+      ],
+      "A类期刊": [
+        {"名称": "Economic Journal", "ISSN": "1468-0297"},
+        {"名称": "International Economic Review", "ISSN": "1468-2354"},
+        {"名称": "Journal of Economic Literature", "ISSN": "2328-8175"},
+        {"名称": "Journal of Economic Perspectives", "ISSN": "1944-7965"},
+        {"名称": "Journal of Economic Theory", "ISSN": "1095-7235"},
+        {"名称": "Journal of the European Economic Association", "ISSN": "1542-4774"},
+        {"名称": "Theoretical Economics", "ISSN": "1555-7561"}
+      ],
+      "B类期刊": [
+        {"名称": "Brookings Papers on Economic Activity", "ISSN": "1533-4465"},
+        {"名称": "Canadian Journal of Economics", "ISSN": "1540-5982"},
+        {"名称": "Economic Inquiry", "ISSN": "1465-7295"},
+        {"名称": "Economic Theory", "ISSN": "1432-0479"},
+        {"名称": "Economica", "ISSN": "1468-0335"},
+        {"名称": "Economics Letters", "ISSN": "1873-7374"},
+        {"名称": "European Economic Review", "ISSN": "1873-572X"},
+        {"名称": "Scandinavian Journal of Economics", "ISSN": "1467-9442"}
+      ]
+    },
+    "宏观经济、发展经济和国际经济": {
+      "A类期刊": [
+        {"名称": "American Economic Journal: Economic Policy", "ISSN": "1945-774X"},
+        {"名称": "American Economic Journal: Macroeconomics", "ISSN": "1945-7715"},
+        {"名称": "Journal of Development Economics", "ISSN": "1872-6089"},
+        {"名称": "Journal of International Economics", "ISSN": "1873-0353"},
+        {"名称": "Journal of Monetary Economics", "ISSN": "1873-1295"},
+        {"名称": "Review of Economic Dynamics", "ISSN": "1096-6099"}
+      ],
+      "B类期刊": [
+        {"名称": "Economic Development and Cultural Change", "ISSN": "1539-2988"},
+        {"名称": "Journal of Comparative Economics", "ISSN": "1095-7227"},
+        {"名称": "Journal of Economic Growth", "ISSN": "1573-7020"},
+        {"名称": "World Development", "ISSN": "0305-750X"}
+      ]
+    },
+    "计量经济和数量经济": {
+      "A类期刊": [
+        {"名称": "Econometric Theory", "ISSN": "1469-4360"},
+        {"名称": "Journal of Applied Econometrics", "ISSN": "1099-1255"},
+        {"名称": "Journal of Business and Economic Statistics", "ISSN": "1537-2707"},
+        {"名称": "Journal of Econometrics", "ISSN": "1872-6895"},
+        {"名称": "Review of Economics and Statistics", "ISSN": "1530-9142"}
+      ],
+      "B类期刊": [
+        {"名称": "Econometric Reviews", "ISSN": "1532-4168"},
+        {"名称": "Econometrics Journal", "ISSN": "1368-423X"},
+        {"名称": "Journal of Economic Dynamics and Control", "ISSN": "1879-1743"},
+        {"名称": "Journal of Mathematical Economics", "ISSN": "1873-1538"},
+        {"名称": "Oxford Bulletin of Economics and Statistics", "ISSN": "1468-0084"}
+      ]
+    },
+    "微观经济、博弈论和产业组织": {
+      "A类期刊": [
+        {"名称": "American Economic Journal: Applied Economics", "ISSN": "1945-7790"},
+        {"名称": "American Economic Journal: Microeconomics", "ISSN": "1945-7685"},
+        {"名称": "Games and Economic Behavior", "ISSN": "1090-2473"},
+        {"名称": "Journal of Human Resources", "ISSN": "1548-8004"},
+        {"名称": "RAND Journal of Economics", "ISSN": "1756-2171"}
+      ],
+      "B类期刊": [
+        {"名称": "Experimental Economics", "ISSN": "1573-6938"},
+        {"名称": "International Journal of Industrial Organization", "ISSN": "1873-7986"},
+        {"名称": "Journal of Economic Behavior and Organization", "ISSN": "1879-1751"},
+        {"名称": "Journal of Economics and Management Strategy", "ISSN": "1530-9134"},
+        {"名称": "Journal of Industrial Economics", "ISSN": "1467-6451"}
+      ]
+    },
+    "资源经济和环境经济": {
+      "A类期刊": [
+        {"名称": "Journal of Environmental Economics and Management", "ISSN": "1096-0449"}
+      ],
+      "B类期刊": [
+        {"名称": "American Journal of Agricultural Economics", "ISSN": "1467-8276"},
+        {"名称": "Ecological Economics", "ISSN": "1873-6106"},
+        {"名称": "Energy Economics", "ISSN": "1873-6181"},
+        {"名称": "Land Economics", "ISSN": "1543-8325"}
+      ]
+    }
+  },
+  "管理学期刊": {
+    "一般管理、战略、创新和创业": {
+      "A+期刊": [
+        {"名称": "Academy of Management Journal", "ISSN": "1948-0989"},
+        {"名称": "Academy of Management Review", "ISSN": "1930-3807"},
+        {"名称": "Administrative Science Quarterly", "ISSN": "1930-3815"},
+        {"名称": "Journal of International Business Studies", "ISSN": "1478-6990"},
+        {"名称": "Strategic Management Journal", "ISSN": "1097-0266"}
+      ],
+      "A类期刊": [
+        {"名称": "Entrepreneurship Theory and Practice", "ISSN": "1540-6520"},
+        {"名称": "Harvard Business Review", "ISSN": "0017-8012"},
+        {"名称": "Journal of Business Ethics", "ISSN": "1573-0697"},
+        {"名称": "Journal of Business Venturing", "ISSN": "1873-2003"},
+        {"名称": "Journal of Management", "ISSN": "1557-1211"},
+        {"名称": "Journal of Management Studies", "ISSN": "1467-6486"},
+        {"名称": "MIT Sloan Management Review", "ISSN": "1532-9194"},
+        {"名称": "Research Policy", "ISSN": "1873-7625"},
+        {"名称": "Strategic Entrepreneurship Journal", "ISSN": "1932-443X"}
+      ],
+      "B类期刊": [
+        {"名称": "Academy of Management Perspectives", "ISSN": "1558-9080"},
+        {"名称": "Asia Pacific Journal of Management", "ISSN": "1572-9958"},
+        {"名称": "British Journal of Management", "ISSN": "1467-8551"},
+        {"名称": "California Management Review", "ISSN": "2162-8564"},
+        {"名称": "Industrial and Corporate Change", "ISSN": "1464-3650"},
+        {"名称": "Industrial Relations: A Journal of Economy and Society", "ISSN": "1468-232X"},
+        {"名称": "International Business Review", "ISSN": "1873-6149"},
+        {"名称": "International Journal of Management Reviews", "ISSN": "1468-2370"},
+        {"名称": "Journal of Business Research", "ISSN": "1873-7978"},
+        {"名称": "Journal of International Management", "ISSN": "1873-0620"},
+        {"名称": "Journal of Product Innovation Management", "ISSN": "1540-5885"},
+        {"名称": "Journal of Service Research", "ISSN": "1552-7379"},
+        {"名称": "Journal of Small Business Management", "ISSN": "1540-627X"},
+        {"名称": "Journal of World Business", "ISSN": "1878-5573"},
+        {"名称": "Long Range Planning", "ISSN": "1873-1872"},
+        {"名称": "Management and Organization Review", "ISSN": "1740-8784"},
+        {"名称": "Management International Review", "ISSN": "1861-8901"},
+        {"名称": "Small Business Economics", "ISSN": "1573-0913"},
+        {"名称": "Technological Forecasting and Social Change", "ISSN": "1873-5509"},
+        {"名称": "Technovation", "ISSN": "1879-2383"}
+      ]
+    },
+    "会计、税收和审计": {
+      "A+类期刊": [
+        {"名称": "Accounting Review", "ISSN": "1558-7967"},
+        {"名称": "Journal of Accounting and Economics", "ISSN": "1879-1980"},
+        {"名称": "Journal of Accounting Research", "ISSN": "1475-679X"}
+      ],
+      "A类期刊": [
+        {"名称": "Accounting, Organizations and Society", "ISSN": "1873-6289"},
+        {"名称": "Auditing: A Journal of Practice and Theory", "ISSN": "1558-7991"},
+        {"名称": "Contemporary Accounting Research", "ISSN": "1911-3846"},
+        {"名称": "Journal of Accounting and Public Policy", "ISSN": "1873-2070"},
+        {"名称": "Review of Accounting Studies", "ISSN": "1573-7136"}
+      ],
+      "B类期刊": [
+        {"名称": "Abacus", "ISSN": "1467-6281"},
+        {"名称": "Accounting and Business Research", "ISSN": "2159-4260"},
+        {"名称": "Accounting Horizons", "ISSN": "1558-7975"},
+        {"名称": "British Accounting Review", "ISSN": "1095-8347"},
+        {"名称": "European Accounting Review", "ISSN": "1468-4497"},
+        {"名称": "Journal of Accounting, Auditing and Finance", "ISSN": "0148-558X"},
+        {"名称": "Journal of the American Taxation Association", "ISSN": "1558-8017"},
+        {"名称": "Journal of Management Accounting Research", "ISSN": "1558-8033"},
+        {"名称": "Management Accounting Research", "ISSN": "1096-1224"}
+      ]
+    },
+    "市场营销": {
+      "A+期刊": [
+        {"名称": "Journal of Consumer Research", "ISSN": "1537-5277"},
+        {"名称": "Journal of Marketing", "ISSN": "1547-7185"},
+        {"名称": "Journal of Marketing Research", "ISSN": "1547-7193"},
+        {"名称": "Marketing Science", "ISSN": "1526-548X"}
+      ],
+      "A类期刊": [
+        {"名称": "International Journal of Research in Marketing", "ISSN": "1873-8001"},
+        {"名称": "Journal of Consumer Psychology", "ISSN": "1532-7663"},
+        {"名称": "Journal of Retailing", "ISSN": "1873-3271"},
+        {"名称": "Journal of the Academy of Marketing Science", "ISSN": "1552-7824"}
+      ],
+      "B类期刊": [
+        {"名称": "European Journal of Marketing", "ISSN": "1758-7123"},
+        {"名称": "Industrial Marketing Management", "ISSN": "1873-2062"},
+        {"名称": "Journal of Advertising", "ISSN": "1557-7805"},
+        {"名称": "Journal of Advertising Research", "ISSN": "1740-1909"},
+        {"名称": "Journal of Interactive Marketing", "ISSN": "1520-6653"},
+        {"名称": "Journal of International Marketing", "ISSN": "1547-7215"},
+        {"名称": "Journal of Public Policy and Marketing", "ISSN": "1547-7207"},
+        {"名称": "Marketing Letters", "ISSN": "1573-059X"},
+        {"名称": "Psychology and Marketing", "ISSN": "1520-6793"}
+      ]
+    },
+    "组织行为、人力资源管理和产业关系": {
+      "A+期刊": [
+        {"名称": "Organization Science", "ISSN": "1526-5455"}
+      ],
+      "A类期刊": [
+        {"名称": "Human Relations", "ISSN": "1741-282X"},
+        {"名称": "Human Resource Management (USA)", "ISSN": "1099-050X"},
+        {"名称": "Journal of Applied Psychology", "ISSN": "1939-1854"},
+        {"名称": "Journal of Organizational Behavior", "ISSN": "1099-1379"},
+        {"名称": "Journal of Personality and Social Psychology", "ISSN": "1939-1315"},
+        {"名称": "Leadership Quarterly", "ISSN": "1873-3409"},
+        {"名称": "Organization Studies", "ISSN": "1741-3044"},
+        {"名称": "Organizational Behavior and Human Decision Processes", "ISSN": "1095-9920"},
+        {"名称": "Personnel Psychology", "ISSN": "1744-6570"}
+      ],
+      "B类期刊": [
+        {"名称": "British Journal of Industrial Relations", "ISSN": "1467-8543"},
+        {"名称": "Group and Organization Management", "ISSN": "1552-3993"},
+        {"名称": "International Journal of Human Resource Management", "ISSN": "1466-4399"},
+        {"名称": "Journal of Occupational and Organizational Psychology", "ISSN": "2044-8325"},
+        {"名称": "Journal of Vocational Behavior", "ISSN": "1095-9084"},
+        {"名称": "Organizational Research Methods", "ISSN": "1552-7425"},
+        {"名称": "Research in Organizational Behavior", "ISSN": "0191-3085"}
+      ]
+    },
+    "运筹学、管理科学和生产与运作管理": {
+      "A+期刊": [
+        {"名称": "INFORMS Journal on Computing", "ISSN": "1526-5528"},
+        {"名称": "Journal of Operations Management", "ISSN": "1873-1317"},
+        {"名称": "Management Science", "ISSN": "1526-5501"},
+        {"名称": "Manufacturing and Service Operations Management", "ISSN": "1526-5498"},
+        {"名称": "Operations Research", "ISSN": "1526-5463"},
+        {"名称": "Production and Operations Management", "ISSN": "1937-5956"}
+      ],
+      "A类期刊": [
+        {"名称": "Decision Sciences", "ISSN": "1540-5915"},
+        {"名称": "European Journal of Operational Research", "ISSN": "1872-6860"},
+        {"名称": "IISE Transactions", "ISSN": "2472-5862"},
+        {"名称": "Mathematical Programming", "ISSN": "1436-4646"},
+        {"名称": "Mathematics of Operations Research", "ISSN": "1526-5471"},
+        {"名称": "Naval Research Logistics", "ISSN": "1520-6750"},
+        {"名称": "Transportation Research Part B: Methodological", "ISSN": "1879-2367"},
+        {"名称": "Transportation Science", "ISSN": "1526-5447"}
+      ],
+      "B类期刊": [
+        {"名称": "Annals of Operations Research", "ISSN": "1572-9338"},
+        {"名称": "Decision Support Systems", "ISSN": "1873-5797"},
+        {"名称": "IEEE Transactions on Engineering Management", "ISSN": "1558-0040"},
+        {"名称": "Interfaces/ INFORMS Journal on Applied Analytics", "ISSN": "1526-551X"},
+        {"名称": "International Journal of Operations and Production Management", "ISSN": "1758-6593"},
+        {"名称": "International Journal of Production Economics", "ISSN": "1873-7579"},
+        {"名称": "International Journal of Production Research", "ISSN": "1366-588X"},
+        {"名称": "Journal of the Operational Research Society", "ISSN": "1476-9360"},
+        {"名称": "Omega: The International Journal of Management Science", "ISSN": "1873-5274"},
+        {"名称": "Supply Chain Management: An International Journal", "ISSN": "1758-6852"},
+        {"名称": "Transportation Research Part A: Policy and Practice", "ISSN": "1879-2375"},
+        {"名称": "Transportation Research Part E: Logistics and Transportation Review", "ISSN": "1878-5794"}
+      ]
+    },
+    "信息管理": {
+      "A+期刊": [
+        {"名称": "Information Systems Research", "ISSN": "1526-5536"},
+        {"名称": "MIS Quarterly", "ISSN": "2162-9730"}
+      ],
+      "A类期刊": [
+        {"名称": "ACM Transactions on Information Systems", "ISSN": "1558-2868"},
+        {"名称": "Communications of the ACM", "ISSN": "1557-7317"},
+        {"名称": "Journal of Information Technology", "ISSN": "1466-4437"},
+        {"名称": "Journal of Management Information Systems", "ISSN": "1557-928X"},
+        {"名称": "Journal of the Association for Information Systems", "ISSN": "1558-3457"}
+      ],
+      "B类期刊": [
+        {"名称": "Computers and Operations Research", "ISSN": "1873-765X"},
+        {"名称": "European Journal of Information Systems", "ISSN": "1476-9344"},
+        {"名称": "Information and Management", "ISSN": "1872-7530"},
+        {"名称": "Information Systems Journal", "ISSN": "1365-2575"},
+        {"名称": "International Journal of Electronic Commerce", "ISSN": "1557-9301"},
+        {"名称": "Journal of Strategic Information Systems", "ISSN": "1873-1198"},
+        {"名称": "Journal of the Association for Information Science and Technology", "ISSN": "2330-1643"}
+      ]
+    },
+    "金融和财务": {
+      "A+期刊": [
+        {"名称": "Journal of Finance", "ISSN": "1540-6261"},
+        {"名称": "Journal of Financial Economics", "ISSN": "0304-405X"},
+        {"名称": "Review of Financial Studies", "ISSN": "1465-7368"}
+      ],
+      "A类期刊": [
+        {"名称": "Financial Management", "ISSN": "1755-053X"},
+        {"名称": "Journal of Corporate Finance", "ISSN": "1872-6313"},
+        {"名称": "Journal of Banking & Finance", "ISSN": "1872-6372"},
+        {"名称": "Journal of Financial and Quantitative Analysis", "ISSN": "1756-6916"},
+        {"名称": "Journal of Financial Intermediation", "ISSN": "1096-0473"},
+        {"名称": "Journal of Financial Markets", "ISSN": "1878-576X"},
+        {"名称": "Journal of Money, Credit & Banking", "ISSN": "1538-4616"},
+        {"名称": "Mathematical Finance", "ISSN": "1467-9965"},
+        {"名称": "Review of Finance", "ISSN": "1573-692X"}
+      ],
+      "B类期刊": [
+        {"名称": "European Financial Management", "ISSN": "1468-036X"},
+        {"名称": "Finance and Stochastics", "ISSN": "1432-1122"},
+        {"名称": "Financial Analysts Journal", "ISSN": "1938-3312"},
+        {"名称": "Insurance: Mathematics and Economics", "ISSN": "1873-5959"},
+        {"名称": "Journal of Business Finance and Accounting", "ISSN": "1468-5957"},
+        {"名称": "Journal of Empirical Finance", "ISSN": "1879-1727"},
+        {"名称": "Journal of Financial Econometrics", "ISSN": "1479-8417"},
+        {"名称": "Journal of Financial Services Research", "ISSN": "1573-0735"},
+        {"名称": "Journal of Futures Markets", "ISSN": "1096-9934"},
+        {"名称": "Journal of International Money and Finance", "ISSN": "1873-0639"},
+        {"名称": "Journal of Portfolio Management", "ISSN": "2168-8656"},
+        {"名称": "Journal of Risk and Insurance", "ISSN": "1539-6975"},
+        {"名称": "Journal of Real Estate Finance and Economics", "ISSN": "1573-045X"},
+        {"名称": "Real Estate Economics", "ISSN": "1540-6229"}
+      ]
+    }
+  },
+  "不计入博士生发表论文要求的SCI和EI收录期刊清单": [
+    {
+      "序号": 1,
+      "期刊名称": "Advanced Science Letters",
+      "检索类别": "SCI",
+      "ISSN": "1936-6612",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 2,
+      "期刊名称": "AUTOMATIKA",
+      "检索类别": "SCI",
+      "ISSN": "0005-1144",
+      "国家/地区": "克罗地亚"
+    },
+    {
+      "序号": 3,
+      "期刊名称": "Information-An International Interdisciplinary Journal",
+      "检索类别": "SCI",
+      "ISSN": "1343-4500",
+      "国家/地区": "日本"
+    },
+    {
+      "序号": 4,
+      "期刊名称": "Przeglad Elektrotechniczny (Electrical Review)",
+      "检索类别": "SCI",
+      "ISSN": "0033-2097",
+      "国家/地区": "波兰"
+    },
+    {
+      "序号": 5,
+      "期刊名称": "Genetics and Molecular Research",
+      "检索类别": "SCI",
+      "ISSN": "1676-5680",
+      "国家/地区": "巴西"
+    },
+    {
+      "序号": 6,
+      "期刊名称": "Medical Science Monitor",
+      "检索类别": "SCI",
+      "ISSN": "1643-3750",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 7,
+      "期刊名称": "OncoTargets and Therapy",
+      "检索类别": "SCI",
+      "ISSN": "1178-6930",
+      "国家/地区": "英国"
+    },
+    {
+      "序号": 8,
+      "期刊名称": "Diagnostic Pathology",
+      "检索类别": "SCI",
+      "ISSN": "1746-1596",
+      "国家/地区": "英国"
+    },
+    {
+      "序号": 9,
+      "期刊名称": "Advanced Materials Research",
+      "检索类别": "EI",
+      "ISSN": "1022-6680",
+      "国家/地区": "瑞士"
+    },
+    {
+      "序号": 10,
+      "期刊名称": "Applied Mechanics and Materials",
+      "检索类别": "EI",
+      "ISSN": "1660-9336",
+      "国家/地区": "德国"
+    },
+    {
+      "序号": 11,
+      "期刊名称": "Advances in Information Sciences and Service Sciences",
+      "检索类别": "EI",
+      "ISSN": "1976-3700",
+      "国家/地区": "韩国"
+    },
+    {
+      "序号": 12,
+      "期刊名称": "IETE Journal of Research",
+      "检索类别": "EI",
+      "ISSN": "0377-2063",
+      "国家/地区": "印度"
+    },
+    {
+      "序号": 13,
+      "期刊名称": "Information Technology Journal",
+      "检索类别": "EI",
+      "ISSN": "1812-5638",
+      "国家/地区": "巴基斯坦"
+    },
+    {
+      "序号": 14,
+      "期刊名称": "International Journal of Advancements in Computing Technology",
+      "检索类别": "EI",
+      "ISSN": "2005-8039",
+      "国家/地区": "韩国"
+    },
+    {
+      "序号": 15,
+      "期刊名称": "International Journal of Digital Content Technology and its Applications",
+      "检索类别": "EI",
+      "ISSN": "1975-9339",
+      "国家/地区": "韩国"
+    },
+    {
+      "序号": 16,
+      "期刊名称": "International Journal on Smart Sensing and Intelligent Systems",
+      "检索类别": "EI",
+      "ISSN": "1178-5608",
+      "国家/地区": "新西兰"
+    },
+    {
+      "序号": 17,
+      "期刊名称": "Journal of Multimedia",
+      "检索类别": "EI",
+      "ISSN": "1796-2048",
+      "国家/地区": "芬兰"
+    },
+    {
+      "序号": 18,
+      "期刊名称": "Journal of Communications",
+      "检索类别": "EI",
+      "ISSN": "1796-2021",
+      "国家/地区": "芬兰"
+    },
+    {
+      "序号": 19,
+      "期刊名称": "Journal of Computational Information Systems",
+      "检索类别": "EI",
+      "ISSN": "1553-9105",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 20,
+      "期刊名称": "Journal of Computers",
+      "检索类别": "EI",
+      "ISSN": "1796-203X",
+      "国家/地区": "芬兰"
+    },
+    {
+      "序号": 21,
+      "期刊名称": "Journal of Convergence Information Technology",
+      "检索类别": "EI",
+      "ISSN": "1975-9320",
+      "国家/地区": "韩国"
+    },
+    {
+      "序号": 22,
+      "期刊名称": "Journal of Information and Computational Science",
+      "检索类别": "EI",
+      "ISSN": "1548-7741",
+      "国家/地区": "香港"
+    },
+    {
+      "序号": 23,
+      "期刊名称": "Journal of Low Power Electronics",
+      "检索类别": "EI",
+      "ISSN": "1546-1998",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 24,
+      "期刊名称": "Journal of Networks",
+      "检索类别": "EI",
+      "ISSN": "1796-2056",
+      "国家/地区": "芬兰"
+    },
+    {
+      "序号": 25,
+      "期刊名称": "Journal of Software",
+      "检索类别": "EI",
+      "ISSN": "1796-217X",
+      "国家/地区": "芬兰"
+    },
+    {
+      "序号": 26,
+      "期刊名称": "Journal of Theoretical and Applied Information Technology",
+      "检索类别": "EI",
+      "ISSN": "1992-8645",
+      "国家/地区": "巴基斯坦"
+    },
+    {
+      "序号": 27,
+      "期刊名称": "ICIC Express Letters, Part B: Applications",
+      "检索类别": "EI",
+      "ISSN": "2185-2766",
+      "国家/地区": "日本"
+    },
+    {
+      "序号": 28,
+      "期刊名称": "International Journal of Applied Mathematics and Statistics",
+      "检索类别": "EI",
+      "ISSN": "0973-1377",
+      "国家/地区": "印度"
+    },
+    {
+      "序号": 29,
+      "期刊名称": "International Journal of Biomedical Imaging",
+      "检索类别": "EI",
+      "ISSN": "1687-4188",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 30,
+      "期刊名称": "International Journal of Computational and Mathematical Sciences",
+      "检索类别": "EI",
+      "ISSN": "2010-3905",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 31,
+      "期刊名称": "International Journal of Computational Intelligence Systems",
+      "检索类别": "EI",
+      "ISSN": "1875-6891",
+      "国家/地区": "英国"
+    },
+    {
+      "序号": 32,
+      "期刊名称": "International Journal of Hybrid Information Technology",
+      "检索类别": "EI",
+      "ISSN": "1738-9968",
+      "国家/地区": "韩国"
+    },
+    {
+      "序号": 33,
+      "期刊名称": "International Journal of Web Engineering and Technology",
+      "检索类别": "EI",
+      "ISSN": "1476-1289",
+      "国家/地区": "瑞士"
+    },
+    {
+      "序号": 34,
+      "期刊名称": "Journal of Applied Sciences",
+      "检索类别": "EI",
+      "ISSN": "1812-5654",
+      "国家/地区": "巴基斯坦"
+    },
+    {
+      "序号": 35,
+      "期刊名称": "Key Engineering Materials",
+      "检索类别": "EI",
+      "ISSN": "1662-9795",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 36,
+      "期刊名称": "Sensors & Transducers",
+      "检索类别": "EI",
+      "ISSN": "1662-9795",
+      "国家/地区": "美国"
+    },
+    {
+      "序号": 37,
+      "期刊名称": "TELKOMNIKA Indonesian Journal of Electrical Engineering",
+      "检索类别": "EI",
+      "ISSN": "1693-6930",
+      "国家/地区": "印尼"
+    },
+    {
+      "序号": 38,
+      "期刊名称": "World Academy of Science, Engineering and Technology",
+      "检索类别": "EI",
+      "ISSN": "2010-376X",
+      "国家/地区": "美国"
+    }
+  ]
+}
