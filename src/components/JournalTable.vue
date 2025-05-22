@@ -4,7 +4,7 @@
       <h3>期刊分类</h3>
       <ul>
         <li v-for="(group, category) in groupedJournals" :key="category">
-          <a href="javascript:void(0)" @click="scrollToCategory(category)">{{ category }}</a>
+          <!-- <a href="javascript:void(0)" @click="scrollToCategory(category)">{{ category }}</a> -->
           <ul>
             <li v-for="(subGroup, subCategory) in group" :key="subCategory">
               <a href="javascript:void(0)" @click="scrollToSubCategory(category, subCategory)">{{ subCategory }}</a>
@@ -134,21 +134,28 @@ export default {
 <style scoped>
 .journal-container {
   display: flex;
+  flex-direction: row;
+  flex:1
 }
 
+
 .sidebar {
-  width: 200px;
-  padding: 20px;
-  background: #f8f9fa;
+  background-color: #ffffff;
+  width: 10%;
+  box-sizing: border-box;
+  padding: 10px;
   position: sticky;
   top: 0;
+  left: 0;
+  width: 20%;
   height: 100vh;
   overflow-y: auto;
+  align-self: flex-start;
 }
 
 .sidebar h3 {
   color: #007bff;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .sidebar ul {
@@ -156,15 +163,23 @@ export default {
   padding: 0;
 }
 
+.sidebar li:first-child {
+  border-bottom: 1px solid #ccc;
+}
+
+.sidebar li:last-child {
+  border-bottom: none;
+}
 .sidebar li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ccc;
 }
 
 .sidebar a {
   color: #495057;
   text-decoration: none;
   display: block;
-  padding: 5px;
+  padding: 3px;
   border-radius: 4px;
 }
 
@@ -196,6 +211,10 @@ h1 {
   margin: 0 auto 20px;
   text-align: center;
   width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .subcategory-title {
   color: #495057;
@@ -234,5 +253,11 @@ tr:hover {
 }
 tr:hover {
   background-color: #f1f1f1;
+}
+.content {
+  margin-left: 15%;
+  flex-grow: 1;
+  overflow-x: auto;
+  overflow-y: auto;
 }
 </style>
